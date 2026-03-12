@@ -96,13 +96,15 @@ contract AIPoweredNegotiation {
 # Expected Output:
 Buyers submit offers, and the contract auto-negotiates the price.
 
+<img width="1858" height="1001" alt="image" src="https://github.com/user-attachments/assets/67631445-3ed4-4dc7-ba48-5cc2a841b747" />
 
 If the buyer’s offer is fair, the deal is executed.
 
+<img width="1856" height="970" alt="image" src="https://github.com/user-attachments/assets/9ffcc1ad-eb3a-485d-8451-df9e58b29c31" />
 
 If the offer is too low, the contract suggests a counteroffer.
 
-
+<img width="1859" height="1006" alt="image" src="https://github.com/user-attachments/assets/17dc152d-871d-4c47-a724-151851b5b8dc" />
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
